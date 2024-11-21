@@ -1,0 +1,9 @@
+.Layout{
+    max-width: 1880px;
+    margin: 0 auto;
+}
+.Collection{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
